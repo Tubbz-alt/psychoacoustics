@@ -1,1 +1,1 @@
-# dprime
+# Method_of_Constant_stimuli
